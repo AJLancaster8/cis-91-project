@@ -1,6 +1,6 @@
 plugin: gcp_compute
 projects:
-  - cis-91-ajlancaster
+  - cis-91
 auth_kind: machineaccount
 keyed_groups:
   - prefix: gcp
